@@ -1,0 +1,22 @@
+Package: Foodmapping
+Type: Package
+Title: Food Items Mapping using Fuzzy Matching
+Version: 1.0.0
+Date: 2017-12-19
+Authors@R: c(person("Armand", "Valsesia", role = "aut",
+    email = "Armand.Valsesia@rd.nestle.com"),
+    person("Marc", "Lamarine", role = c("aut", "cre"),
+    email = "marc.lamarine@quartz.bio"))
+Description: Interface to compute fuzzy matching scores. For e.g. find food items with similar names.
+License: GPL-2
+Depends: R (>= 3.3.2)
+Imports: fuzzywuzzyR
+Suggests: devtools, knitr, pander, testthat
+RoxygenNote: 6.0.1
+VignetteBuilder: knitr
+LazyData: yes
+NeedsCompilation: no
+Packaged: 2017-05-16 12:27:46 UTC; docker
+Author: Armand Valsesia [aut],
+  Marc Lamarine [aut, cre]
+Maintainer: Armand Valsesia <armand.valsesia@rd.nestle.com>

@@ -1,0 +1,21 @@
+citHeader("To cite Foodmapping in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Large-scale, automated mapping from food diaries onto food composition tables",
+  author       = personList(as.person("Marc Lamarine"),
+                   as.person("Jorg Hager"),
+                   as.person("Wim H.M Saris"),
+                   as.person("Arne Astrup"),
+                   as.person("Armand Valsesia")),
+  journal      = "",
+  year         = "",
+  volume       = "",
+  number       = "",
+  pages        = "",
+  url          = "",
+
+  textVersion  =
+  paste("Marc Lamarine, Jorg Hager, Wim H.M Saris, Arne Astrup, Armand Valsesia",
+        "Large-scale, automated mapping from food diaries onto food composition tables",
+        "Submitted")
+)
