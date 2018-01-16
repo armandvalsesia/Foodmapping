@@ -4,7 +4,8 @@ Food Items Mapping using Fuzzy Matching
 ## Overview
 
 **Foodmapping** is an R package that enable to compare any two food items, in term of name similarity. 
-Name similarity is computed using Fuzzy Matching (the "Partial Token Sort Ratio" metric, as implemented in the [fuzzywuzzyR package](http://cran.r-project.org/package=fuzzywuzzyR))
+Name similarity is computed using Fuzzy Matching (the "Partial Token Sort Ratio" metric, as implemented in the [fuzzywuzzyR package](http://cran.r-project.org/package=fuzzywuzzyR)).
+
 
 ### **System Requirements**
 
