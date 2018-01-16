@@ -6,20 +6,19 @@ Food Items Mapping using Fuzzy Matching
 **Foodmapping** is an R package that enable to compare any two food items, in term of name similarity. 
 Name similarity is computed using Fuzzy Matching (the "Partial Token Sort Ratio" metric, as implemented in the [fuzzywuzzyR package](http://cran.r-project.org/package=fuzzywuzzyR)).
 
-
 ### **System Requirements**
 
 This package is an interface to the excellent [fuzzywuzzyR R package](http://cran.r-project.org/package=fuzzywuzzyR)).
 
-It has the following additional dependencies (cf [fuzzywuzzyR installation guide](https://github.com/mlampros/fuzzywuzzyR) ):
+It has the following additional dependencies (cf fuzzywuzzyR [installation guide](https://github.com/mlampros/fuzzywuzzyR) ):
 
-* Python (>= 2.4)
+* [Python] (https://www.python.org/) (>= 2.4)
 
-* difflib
+* [fuzzywuzzyR](https://github.com/mlampros/fuzzywuzzyR) (>=1.0.2)
 
-* fuzzywuzzy ( >=0.15.0 )
+* [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) (>=0.15.0)
 
-* [python-Levenshtein](https://github.com/ztane/python-Levenshtein/) ( >=0.12.0, optional, provides a 4-10x speedup in String Matching, though may result in differing results for certain cases)
+* [python-Levenshtein](https://github.com/ztane/python-Levenshtein/) (>=0.12.0, optional but can enable speed-up)
 
 ## Installation
 
