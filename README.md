@@ -8,11 +8,11 @@ Name similarity is computed using Fuzzy Matching (the "Partial Token Sort Ratio"
 
 ### **System Requirements**
 
-This package is an interface to the excellent [fuzzywuzzyR R package](http://cran.r-project.org/package=fuzzywuzzyR)).
+This package is an interface to the excellent [fuzzywuzzyR](http://cran.r-project.org/package=fuzzywuzzyR) R package.
 
-It has the following additional dependencies (cf fuzzywuzzyR [installation guide](https://github.com/mlampros/fuzzywuzzyR) ):
+It has the following additional dependencies (cf [fuzzywuzzyR](https://github.com/mlampros/fuzzywuzzyR) installation guide):
 
-* [Python] (https://www.python.org/) (>= 2.4)
+* [Python](https://www.python.org/) (>= 2.4)
 
 * [fuzzywuzzyR](https://github.com/mlampros/fuzzywuzzyR) (>=1.0.2)
 
