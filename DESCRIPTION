@@ -11,7 +11,7 @@ Description: Interface to compute fuzzy matching scores. For e.g. find food item
 License: GPL-2
 Depends: R (>= 3.3.2)
 Imports: fuzzywuzzyR
-Suggests: devtools, knitr, pander, testthat
+Suggests: devtools, knitr, pander, testthat, rmarkdown
 RoxygenNote: 6.0.1
 VignetteBuilder: knitr
 LazyData: yes
