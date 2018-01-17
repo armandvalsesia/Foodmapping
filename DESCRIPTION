@@ -8,7 +8,7 @@ Authors@R: c(person("Armand", "Valsesia", role = "aut",
     person("Marc", "Lamarine", role = c("aut", "cre"),
     email = "marc.lamarine@quartz.bio"))
 Description: Interface to compute fuzzy matching scores. For e.g. find food items with similar names.
-License: GPL-2
+License: file LICENSE
 Depends: R (>= 3.3.2)
 Imports: fuzzywuzzyR
 Suggests: devtools, knitr, pander, testthat, rmarkdown
