@@ -16,7 +16,7 @@ test_that('python_install', .python_install())
 
 
 ..get_fuzz_matcher <- function() {
-	targ <- eurofirC5:::.get_fuzz_matcher()
+	targ <- Foodmapping:::.get_fuzz_matcher()
 	expect_equal(class(targ), c("FuzzMatcher", "R6")) 
 	expect_equal(formals(targ$Partial_token_sort_ratio), 
 			pairlist(string1 = NULL, string2 = NULL, force_ascii = TRUE, full_process = TRUE)
