@@ -21,6 +21,7 @@ build_script:
   - travis-tool.sh install_r reticulate
   - travis-tool.sh install_r R6
   - travis-tool.sh install_r htmltools
+  - travis-tool.sh install_r fuzzywuzzyR
   - travis-tool.sh install_deps
 
 test_script:
