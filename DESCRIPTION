@@ -9,6 +9,7 @@ Authors@R: c(person("Armand", "Valsesia", role = "aut",
     email = "marc.lamarine@quartz.bio"))
 Description: Interface to compute fuzzy matching scores. For e.g. find food items with similar names.
 License: file LICENSE
+SystemRequirements: Python (>= 2.4), difflib, fuzzywuzzy ( >=0.15.0 ), python-Levenshtein ( >=0.12.0 ). 
 Depends: R (>= 3.3.2)
 Imports: fuzzywuzzyR
 Suggests: devtools, knitr, pander, testthat, rmarkdown
