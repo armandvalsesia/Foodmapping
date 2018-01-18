@@ -1,3 +1,2 @@
-difflib
 fuzzywuzzy
 python-Levenshtein
