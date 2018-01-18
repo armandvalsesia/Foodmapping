@@ -1,5 +1,6 @@
-[![Travis-CI Build Status](https://travis-ci.org/mlampros/fuzzywuzzyR.svg?branch=master)](https://travis-ci.org/armandvalsesia/Foodmapping)
-[![codecov.io](https://codecov.io/github/mlampros/fuzzywuzzyR/coverage.svg?branch=master)](https://codecov.io/github/armandvalsesia/Foodmapping?branch=master)
+[![Travis-CI Build Status](https://travis-ci.org/armandvalsesia/Foodmapping.svg?branch=master)](https://travis-ci.org/armandvalsesia/Foodmapping)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/armandvalsesia/Foodmapping?branch=master&svg=true)](https://ci.appveyor.com/project/armandvalsesia/Foodmapping/branch/master)
+[![codecov.io](https://codecov.io/github/armandvalsesia/Foodmapping/coverage.svg?branch=master)](https://codecov.io/github/armandvalsesia/Foodmapping?branch=master)
 
 # Foodmapping
 Food Items Mapping using Fuzzy Matching
